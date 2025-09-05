@@ -4,7 +4,7 @@ vim9script
 
 import autoload './util.vim'
 import autoload './lsp.vim'
-import './options.vim' as copts
+import '../../plugin/options.vim' as copts
 
 export var options: dict<any> = copts.options
 var saved_options: dict<any> = {}

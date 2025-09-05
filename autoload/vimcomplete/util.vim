@@ -1,6 +1,6 @@
 vim9script
 
-import autoload './options.vim' as opts
+import '../../plugin/options.vim' as opts
 
 var copts = opts.options
 
