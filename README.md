@@ -1,5 +1,15 @@
 
-<h1 align="center"> VimComplete </h1>
+<h2 align="center"> VimComplete </h2>
+
+## ⚠️ Plugin Deprecated
+
+> **This plugin is obsolete and will no longer be maintained.**
+> Its core features, including autocompletion, are now part of Vim itself.
+> See `:h ins-autocompletion` and `:h ins-autocompletion-example` for details.
+
+---------
+
+
 
 <h4 align="center"> A lightweight autocompletion plugin for Vim, written in vim9script. </h4>
 
