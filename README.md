@@ -4,7 +4,7 @@
 ## ⚠️ Plugin Deprecated
 
 > **This plugin is obsolete and will no longer be maintained.**
-> Its core features, including autocompletion, are now part of Vim itself.
+> I’ve implemented its core features, including autocompletion, in Vim.
 > See `:h ins-autocompletion` and `:h ins-autocompletion-example` for details.
 
 ---------
